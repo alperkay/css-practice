@@ -1,0 +1,22 @@
+{
+  "name": "css-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperkay/css-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperkay/css-practice/issues"
+  },
+  "homepage": "https://github.com/alperkay/css-practice#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
